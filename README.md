@@ -44,3 +44,10 @@ Write an Angular application which
 | ----------- | ----------- | ------ | ---- |
 | Box-A1-O3   | O3          | 321    | ppm  |
 | Box-A1-TEMP | TEMP        |        |      |
+
+#### Submission
+
+Please include with your submission:
+
+- An explanation of any design decisions you've made (e.g. choice of libs, why you left parts out?, how you could improve this further, etc).
+- A brief guide on how to run the project.
